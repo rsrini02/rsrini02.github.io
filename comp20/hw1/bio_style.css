@@ -1,6 +1,6 @@
 body {
 	color: green;
-	font-size: 18px;
+	font-size: 18pt;
 	text-align: center;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -12,5 +12,5 @@ body {
 
 h1 {
 	color: blue;
-	font-size: 35;
+	font-size: 35pt;
 }
