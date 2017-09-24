@@ -1,0 +1,16 @@
+body {
+	color: green;
+	font-size: 18px;
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	border-style: dashed;
+	background-color: black;
+}
+
+h1 {
+	color: blue;
+	font-size: 35;
+}
